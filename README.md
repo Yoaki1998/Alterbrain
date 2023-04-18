@@ -47,8 +47,3 @@ Copy code
 This will start a Flask server at `http://localhost:5000`.
 
 To interact with the chatbot, send a POST request to `http://localhost:5000/alterbrain` with a JSON payload containing a `message` field that represents the user input. The server will return a JSON response containing a `response` field that represents the chatbot's response to the input.
-
-License
--------
-
-This project is licensed under the MIT License. See the LICENSE file for details.
